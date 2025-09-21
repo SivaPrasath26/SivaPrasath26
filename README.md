@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Siva Prasath</h1>
-<h3 align="center">Data Engineering & Analytics</h3>
-
----
-
 <p align="center">
   <img src="images/tech.gif" alt="banner" width="600"/>
 </p>
