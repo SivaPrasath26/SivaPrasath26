@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="images/tech.gif" alt="banner" width="600"/>
+</p>
+
+---
+
 ## <p align="center">Skills & Technologies</p>
 
 ### <p align="center">Data Engineering</p>
