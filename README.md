@@ -76,11 +76,7 @@
 
 
 ---
-
-<p align="center">
-  <img src="your-local-banner.gif" alt="skills banner" width="600"/>
-</p>
-
+<p align=center><img width=100% src=images/the-garden-of-words.gif.gif></p>
 ---
 
 ## <p align="center">Repositories</p>
