@@ -76,7 +76,7 @@
 
 
 ---
-<p align=center><img width=100% src=images/the-garden-of-words.gif.gif></p>
+<p align=center><img width=100% src=images/the-garden-of-words-gif.gif></p>
 ---
 
 ## <p align="center">Repositories</p>
