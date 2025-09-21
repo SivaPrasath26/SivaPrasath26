@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/moon.gif" alt="banner" width="600"/>
-</p>
+<p align=center><img width=100% src=images/moon.gif></p>
 
 ## <p align="center">Skills & Technologies</p>
 
