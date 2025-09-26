@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-316192?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pyodbc-007396?style=flat-square"/>
   <img src="https://img.shields.io/badge/pytest-ED1C24?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Alembic-7D4698?style=flat-square"/>
 </p>
 
 ### <p align="center">Frontend</p>
@@ -46,7 +47,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
+
 
 ### <p align="center">DevOps</p>
 <p align="center">
