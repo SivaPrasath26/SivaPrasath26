@@ -19,8 +19,9 @@
   <img src="https://img.shields.io/badge/Performance_Optimization-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data_Quality-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data_Workflow_Automation-0A66C2?style=flat-square"/>
-
 </p>
+
+---
 
 ### <p align="center">Backend Engineering</p>
 <p align="center">
@@ -34,6 +35,8 @@
   <img src="https://img.shields.io/badge/Alembic-7D4698?style=flat-square"/>
 </p>
 
+---
+
 ### <p align="center">DevOps & Cloud Integration</p>
 <p align="center">
   <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat-square"/>
@@ -42,6 +45,8 @@
   <img src="https://img.shields.io/badge/Cloud_Shell-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
+
+---
 
 ### <p align="center">Analytics & BI</p>
 <p align="center">
@@ -52,6 +57,8 @@
   <img src="https://img.shields.io/badge/Data_Visualization-0A66C2?style=flat-square"/>
 </p>
 
+---
+
 ### <p align="center">Team Leadership</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Technical_Mentoring-0A66C2?style=flat-square"/>
@@ -60,7 +67,6 @@
   <img src="https://img.shields.io/badge/Vision_&_Roadmapping-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Team_Productivity_Optimization-0A66C2?style=flat-square"/>
 </p>
-
 
 ---
 
