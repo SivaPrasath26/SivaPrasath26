@@ -63,10 +63,7 @@ I'm always open to collaborating on exciting projects and ideas. If you share si
   <a href="mailto:naz.sivaprasath239@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/siva-prasath-26m" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
-
-
 <br>
-
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
