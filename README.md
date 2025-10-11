@@ -55,7 +55,21 @@
 ---
 [![Siva Prasath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasath26&theme=github-compact)](https://github.com/SivaPrasath26/github-readme-activity-graph)
 
+## Let's colab
 
+I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+
+<p>
+  <a href="mailto:naz.sivaprasath239@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/siva-prasath-26m" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
+
+
+<br>
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 <!-- ### <p align="center">Data Engineering</p>
 <p align="center">
   <a href="your-repo-link">ETL-Pipeline</a><br/>
@@ -70,29 +84,3 @@
   Automated schema creation and data loading in BigQuery.
 </p>
 
----
-
-### <p align="center">Analytics</p>
-<p align="center">
-  <a href="your-repo-link">Customer-Insights</a><br/>
-  Dashboard for customer segmentation and churn analysis using Tableau.
-</p>
-
----
-
-### <p align="center">Web Development</p>
-<p align="center">
-  <a href="your-repo-link">Flask-APIs</a><br/>
-  REST APIs built with Flask and SQLAlchemy.
-</p>
-
-<p align="center">
-  <a href="your-repo-link">Portfolio-Website</a><br/>
-  Personal portfolio built with HTML, CSS, and JavaScript.
-</p>
-
----
-
-<p align="center">
-  <img src="your-local-bottom.gif" alt="repos banner" width="600"/>
-</p> -->
