@@ -72,6 +72,9 @@
 
 ## <p align="center">Repositories</p>
 
+| <a href="https://github.com/SivaPrasath26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SivaPrasath26&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Siva Prasath's GitHub stats" /></a> | <a href="https://github.com/SivaPrasath26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasath26&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!-- ### <p align="center">Data Engineering</p>
 <p align="center">
   <a href="your-repo-link">ETL-Pipeline</a><br/>
