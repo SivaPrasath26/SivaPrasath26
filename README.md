@@ -53,7 +53,7 @@
 | ------------- | ------------- |
 
 ---
-[![Siva Prasath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasath26&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
+[![Siva Prasath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SivaPrasath26&theme=github-compact)](https://github.com/SivaPrasath26/github-readme-activity-graph)
 
 
 <!-- ### <p align="center">Data Engineering</p>
