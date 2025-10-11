@@ -48,32 +48,11 @@
 
 ---
 
-### <p align="center">Analytics & BI</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Metrics_Design-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-0A66C2?style=flat-square"/>
-</p>
-
----
-
-### <p align="center">Team Leadership</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Technical_Mentoring-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Code_Review-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cross_functional_Collaboration-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vision_&_Roadmapping-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Team_Productivity_Optimization-0A66C2?style=flat-square"/>
-</p>
-
----
-
-## <p align="center">Repositories</p>
-
 | <a href="https://github.com/SivaPrasath26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SivaPrasath26&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Siva Prasath's GitHub stats" /></a> | <a href="https://github.com/SivaPrasath26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPrasath26&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
+
 
 <!-- ### <p align="center">Data Engineering</p>
 <p align="center">
