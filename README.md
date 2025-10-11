@@ -40,6 +40,7 @@
 ### <p align="center">DevOps & Cloud Integration</p>
 <p align="center">
   <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Shell-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
