@@ -1,5 +1,4 @@
 <!-- <p align=center><img width=100% src=images/moon.gif></p> -->
-
 ## <p align="center">Skills & Technologies</p>
 
 ### <p align="center">Data Engineering</p>
