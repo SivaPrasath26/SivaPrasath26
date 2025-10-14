@@ -3,44 +3,45 @@
 
 ### <p align="center">Data Engineering</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-0052CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ETL_Design-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Pipelines-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Performance_Optimization-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Quality-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Workflow_Automation-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Databricks-FF6F00?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/ETL_Design-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Data_Pipelines-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Performance_Optimization-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Data_Quality-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Data_Workflow_Automation-0A66C2?style=flat"/>
 </p>
 
 ---
 
-### <p align="center">Backend Engineering</p>
+### <p align="center">Software Engineering</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-316192?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pyodbc-007396?style=flat-square"/>
-  <img src="https://img.shields.io/badge/pytest-ED1C24?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Alembic-7D4698?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-316192?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logging-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-ED1C24?style=flat"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
 ### <p align="center">DevOps & Cloud Integration</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
