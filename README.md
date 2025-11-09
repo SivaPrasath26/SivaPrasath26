@@ -7,11 +7,12 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=black"/>
   <img src="https://img.shields.io/badge/Databricks-FF6F00?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat"/>
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=flat"/>
   <img src="https://img.shields.io/badge/ETL_Design-0A66C2?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Pipelines-0A66C2?style=flat"/>
