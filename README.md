@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat"/>
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p>
