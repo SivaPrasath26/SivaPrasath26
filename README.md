@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=black"/>
   <img src="https://img.shields.io/badge/Databricks-FF6F00?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-009688?style=flat&logo=kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-316192?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Logging-0A66C2?style=flat"/>
