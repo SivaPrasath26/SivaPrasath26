@@ -27,6 +27,7 @@
 ### <p align="center">Software Engineering</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-316192?style=flat&logo=python&logoColor=white"/>
